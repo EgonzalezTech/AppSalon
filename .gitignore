@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sass cache
+.sass-cache/
+*.css.map
+
+# Gulp cache/output
+dist/
+public/css/
+public/js/
+public/images/
+
+# PHP specific
+vendor/
+*.log
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Others
+*.lock

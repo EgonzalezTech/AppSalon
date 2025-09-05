@@ -1,0 +1,19 @@
+{
+  "name": "egonzalez/app-salon_php_mvc_js_sass",
+  "description": "Proyecto PHP 8 MVC , SQL , SASS , Gulp",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "MVC\\": "./",
+      "Controllers\\": "./controllers",
+      "Models\\": "./models"
+    }
+  },
+  "authors": [
+    {
+      "name": "Edwin Gonzalez",
+      "email": "gonz0202@algonquinlive.com"
+    }
+  ],
+  "require": {}
+}
