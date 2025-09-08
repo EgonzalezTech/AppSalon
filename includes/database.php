@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('127.0.0.1', 'egonzalez', 'omega', 'dbSalon');
+$db = mysqli_connect('127.0.0.1', 'Your user', 'Your password', 'dbSalon');
 
 
 if (!$db) {
